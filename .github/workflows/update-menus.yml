@@ -1,0 +1,43 @@
+name: Update dining menus
+
+on:
+  schedule:
+    # Times are UTC. During EST these run at about 4:15am, 8:15am, 11:15am, 3:15pm and 6:15pm Eastern.
+    - cron: "15 9,13,16,20,23 * * *"
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/update-menus.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-menus
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch today's menus from VT FoodPro
+        run: node scripts/fetch-menus.mjs
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- data/today.json; then
+            echo "Menu unchanged."
+            exit 0
+          fi
+          git config user.name  "hokie-fuel-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/today.json
+          git commit -m "Update menus $(TZ=America/New_York date +'%Y-%m-%d %H:%M')"
+          git push
