@@ -1,0 +1,1425 @@
+{
+ "locations": [
+  {
+   "id": "71",
+   "name": "DX",
+   "locationNum": "71"
+  },
+  {
+   "id": "15",
+   "name": "D2 at Dietrick Hall",
+   "locationNum": "15"
+  },
+  {
+   "id": "14",
+   "name": "Turner Place at Lavery Hall ",
+   "locationNum": "14"
+  },
+  {
+   "id": "39",
+   "name": "Owens Food Court",
+   "locationNum": "39"
+  },
+  {
+   "id": "16",
+   "name": "West End at Cochrane Hall",
+   "locationNum": "16"
+  }
+ ],
+ "menus": {
+  "71": {
+   "locationNum": "71",
+   "date": "11/16/2026",
+   "meals": [
+    {
+     "mealName": "Dinner",
+     "sections": [
+      {
+       "sectionName": "DX Wraps",
+       "recipes": [
+        {
+         "recipeId": "113086",
+         "name": "Chicken Parm Wrap",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "Delicious chicken tenders with pizza sau",
+         "portionSize": "1",
+         "portionUnit": "EACH",
+         "allergens": "Milk, Wheat, Soybeans, Gluten"
+        }
+       ]
+      },
+      {
+       "sectionName": "DX Burgers",
+       "recipes": [
+        {
+         "recipeId": "077010",
+         "name": "Quarter Pound Hamburger",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "A hand-grilled all-beef patty served on ",
+         "portionSize": "1",
+         "portionUnit": "HAMBURGER",
+         "allergens": "Wheat, Soybeans, Gluten, Sesame"
+        }
+       ]
+      },
+      {
+       "sectionName": "DX Fryer",
+       "recipes": [
+        {
+         "recipeId": "111319",
+         "name": "Chicken Tenders",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "Chicken strips breaded, seasoned, and de",
+         "portionSize": "8",
+         "portionUnit": "OZ",
+         "allergens": "Milk, Eggs, Wheat, Soybeans, Gluten"
+        },
+        {
+         "recipeId": "161151",
+         "name": "French Fries",
+         "legendCodes": [
+          "WCVEG"
+         ],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "The classic French fry served for on-the",
+         "portionSize": "4 3/4",
+         "portionUnit": "OZ",
+         "allergens": "Wheat, Soybeans, Gluten"
+        },
+        {
+         "recipeId": "141452",
+         "name": "Incogmeato Tenders",
+         "legendCodes": [
+          "WCVEG"
+         ],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "Vegan breaded chicken tenders.",
+         "portionSize": "6",
+         "portionUnit": "OZ",
+         "allergens": "Wheat, Soybeans, Gluten"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "15": {
+   "locationNum": "15",
+   "date": "11/16/2026",
+   "meals": [
+    {
+     "mealName": "Breakfast",
+     "sections": [
+      {
+       "sectionName": "Gauchos Breakfast",
+       "recipes": [
+        {
+         "recipeId": "061001",
+         "name": "Scrambled Eggs",
+         "legendCodes": [
+          "WCVTN"
+         ],
+         "legendImages": [
+          "vegetarian"
+         ],
+         "description": "Fluffy, scrambled eggs.",
+         "portionSize": "3",
+         "portionUnit": "OZ",
+         "allergens": "Eggs, Soybeans"
+        },
+        {
+         "recipeId": "141002",
+         "name": "Buttermilk Pancakes",
+         "legendCodes": [
+          "WCVTN"
+         ],
+         "legendImages": [
+          "vegetarian"
+         ],
+         "description": "",
+         "portionSize": "2",
+         "portionUnit": "PANCAKES",
+         "allergens": "Milk, Eggs, Wheat, Soybeans, Gluten"
+        }
+       ]
+      },
+      {
+       "sectionName": "Oatmeal",
+       "recipes": [
+        {
+         "recipeId": "900001",
+         "name": "Oatmeal",
+         "legendCodes": [
+          "WCVEG"
+         ],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "1/2",
+         "portionUnit": "CUP",
+         "allergens": ""
+        }
+       ]
+      },
+      {
+       "sectionName": "Beverages",
+       "recipes": [
+        {
+         "recipeId": "900002",
+         "name": "Chocolate Milk",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "8",
+         "portionUnit": "OZL",
+         "allergens": "Milk"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "mealName": "Lunch",
+     "sections": [
+      {
+       "sectionName": "Gauchos Grills",
+       "recipes": [
+        {
+         "recipeId": "900003",
+         "name": "Grilled Chicken Breast",
+         "legendCodes": [
+          "WCHA"
+         ],
+         "legendImages": [
+          "halal"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "900004",
+         "name": "Chicken Pot Pie",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "EACH",
+         "allergens": "Milk, Wheat, Gluten"
+        }
+       ]
+      },
+      {
+       "sectionName": "Viridian Sides",
+       "recipes": [
+        {
+         "recipeId": "900005",
+         "name": "Brown Rice",
+         "legendCodes": [
+          "WCVEG"
+         ],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "1/2",
+         "portionUnit": "CUP",
+         "allergens": ""
+        },
+        {
+         "recipeId": "900006",
+         "name": "Steamed Broccoli",
+         "legendCodes": [
+          "WCVEG"
+         ],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "3",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      },
+      {
+       "sectionName": "Condiments",
+       "recipes": [
+        {
+         "recipeId": "900007",
+         "name": "Ranch Dressing",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "OZL",
+         "allergens": "Milk, Eggs"
+        }
+       ]
+      },
+      {
+       "sectionName": "La Patisserie Cookies and Tarts",
+       "recipes": [
+        {
+         "recipeId": "900008",
+         "name": "Chocolate Chip Cookie",
+         "legendCodes": [
+          "WCVTN"
+         ],
+         "legendImages": [
+          "vegetarian"
+         ],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "EACH",
+         "allergens": "Milk, Eggs, Wheat, Gluten, Tree Nuts"
+        }
+       ]
+      },
+      {
+       "sectionName": "Bar",
+       "recipes": [
+        {
+         "recipeId": "900009",
+         "name": "Beer Battered Fish",
+         "legendCodes": [
+          "WCAL"
+         ],
+         "legendImages": [
+          "alcohol"
+         ],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "EACH",
+         "allergens": "Wheat, Fish"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "mealName": "Dinner",
+     "sections": [
+      {
+       "sectionName": "Gauchos Grills",
+       "recipes": [
+        {
+         "recipeId": "900003",
+         "name": "Grilled Chicken Breast",
+         "legendCodes": [
+          "WCHA"
+         ],
+         "legendImages": [
+          "halal"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "14": {
+   "locationNum": "14",
+   "date": "11/16/2026",
+   "meals": [
+    {
+     "mealName": "Lunch",
+     "sections": [
+      {
+       "sectionName": "Firegrill Grilled Meat and Seafood",
+       "recipes": [
+        {
+         "recipeId": "910001",
+         "name": "Grilled Chicken Breast",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "5",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      },
+      {
+       "sectionName": "Firegrill Grillside Sides",
+       "recipes": [
+        {
+         "recipeId": "910002",
+         "name": "Roasted Red Potatoes",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "910003",
+         "name": "Green Beans",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "3",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      },
+      {
+       "sectionName": "Atomic Pizza: Pastas and Sauces",
+       "recipes": [
+        {
+         "recipeId": "910004",
+         "name": "Penne Alfredo",
+         "legendCodes": [],
+         "legendImages": [
+          "vegetarian"
+         ],
+         "description": "",
+         "portionSize": "8",
+         "portionUnit": "OZ",
+         "allergens": "Milk, Wheat, Gluten"
+        }
+       ]
+      },
+      {
+       "sectionName": "Dolci e Caffe: Grab-n-Go",
+       "recipes": [
+        {
+         "recipeId": "910005",
+         "name": "Jasmine Rice Bowl",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "EACH",
+         "allergens": ""
+        },
+        {
+         "recipeId": "910006",
+         "name": "Fresh Fruit Cup",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "6",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "39": {
+   "locationNum": "39",
+   "date": "11/16/2026",
+   "meals": [
+    {
+     "mealName": "Lunch/Dinner",
+     "sections": [
+      {
+       "sectionName": "Tazon - Bases",
+       "recipes": [
+        {
+         "recipeId": "920001",
+         "name": "Cilantro Lime Rice",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920002",
+         "name": "Brown Rice",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920003",
+         "name": "Romaine Lettuce",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "2",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      },
+      {
+       "sectionName": "Tazon - Protein",
+       "recipes": [
+        {
+         "recipeId": "920011",
+         "name": "Grilled Chicken",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920012",
+         "name": "Carne Asada",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920013",
+         "name": "Sofritas",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": "Soybeans"
+        }
+       ]
+      },
+      {
+       "sectionName": "Tazon - Toppings",
+       "recipes": [
+        {
+         "recipeId": "920021",
+         "name": "Black Beans",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920022",
+         "name": "Fajita Veggies",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "2",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920023",
+         "name": "Pico de Gallo",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "2",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920024",
+         "name": "Sour Cream",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "OZ",
+         "allergens": "Milk"
+        },
+        {
+         "recipeId": "920025",
+         "name": "Shredded Cheese",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "OZ",
+         "allergens": "Milk"
+        },
+        {
+         "recipeId": "920026",
+         "name": "Corn Salsa",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "2",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "920027",
+         "name": "Guacamole",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "2",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      },
+      {
+       "sectionName": "Wan - Entrees",
+       "recipes": [
+        {
+         "recipeId": "920031",
+         "name": "Orange Chicken",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "6",
+         "portionUnit": "OZ",
+         "allergens": "Wheat, Soybeans, Gluten, Eggs"
+        }
+       ]
+      },
+      {
+       "sectionName": "Wan - Bases",
+       "recipes": [
+        {
+         "recipeId": "920032",
+         "name": "Fried Rice",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "6",
+         "portionUnit": "OZ",
+         "allergens": "Eggs, Soybeans"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "16": {
+   "locationNum": "16",
+   "date": "11/16/2026",
+   "meals": [
+    {
+     "mealName": "Lunch",
+     "sections": [
+      {
+       "sectionName": "Rosso Pasta",
+       "recipes": [
+        {
+         "recipeId": "930001",
+         "name": "Penne Pasta",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "8",
+         "portionUnit": "OZ",
+         "allergens": "Wheat, Gluten"
+        },
+        {
+         "recipeId": "930002",
+         "name": "Chicken Parm",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "EACH",
+         "allergens": "Milk, Wheat, Gluten"
+        }
+       ]
+      },
+      {
+       "sectionName": "Rosso Sauce",
+       "recipes": [
+        {
+         "recipeId": "930003",
+         "name": "Marinara Sauce",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "930004",
+         "name": "Alfredo Sauce",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": "Milk"
+        }
+       ]
+      },
+      {
+       "sectionName": "Rosso Proteins",
+       "recipes": [
+        {
+         "recipeId": "930005",
+         "name": "Grilled Chicken",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        },
+        {
+         "recipeId": "930006",
+         "name": "Extra Grilled Chicken",
+         "legendCodes": [],
+         "legendImages": [],
+         "description": "",
+         "portionSize": "4",
+         "portionUnit": "OZ",
+         "allergens": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "mealName": "Dinner",
+     "sections": [
+      {
+       "sectionName": "Cereals",
+       "recipes": [
+        {
+         "recipeId": "930007",
+         "name": "Raisin Bran",
+         "legendCodes": [],
+         "legendImages": [
+          "vegan"
+         ],
+         "description": "",
+         "portionSize": "1",
+         "portionUnit": "CUP",
+         "allergens": "Wheat"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "nutrition": [
+  {
+   "id": "113086",
+   "portionSize": "1",
+   "n": {
+    "Prot": "47.188",
+    "Fat-T": "33.611",
+    "Carb": "88.869",
+    "Fiber": "5.017",
+    "Cals": "832.113",
+    "Sugar": "10.584",
+    "Sod": "2083.996"
+   }
+  },
+  {
+   "id": "077010",
+   "portionSize": "1",
+   "n": {
+    "Prot": "16.444",
+    "Fat-T": "15.810",
+    "Carb": "27.000",
+    "Fiber": "1.000",
+    "Cals": "318.570",
+    "Sugar": "4.000",
+    "Sod": "317.287"
+   }
+  },
+  {
+   "id": "111319",
+   "portionSize": "8",
+   "n": {
+    "Prot": "34.020",
+    "Fat-T": "15.876",
+    "Carb": "36.288",
+    "Fiber": "1.701",
+    "Cals": "417.312",
+    "Sugar": "9.072",
+    "Sod": "1000.188"
+   }
+  },
+  {
+   "id": "161151",
+   "portionSize": "4 3/4",
+   "n": {
+    "Prot": "3.208",
+    "Fat-T": "6.416",
+    "Carb": "28.871",
+    "Fiber": "3.208",
+    "Cals": "192.475",
+    "Sugar": "0.000",
+    "Sod": "40.099"
+   }
+  },
+  {
+   "id": "141452",
+   "portionSize": "6",
+   "n": {
+    "Prot": "32.826",
+    "Fat-T": "27.407",
+    "Carb": "38.795",
+    "Fiber": "5.968",
+    "Cals": "517.739",
+    "Sugar": "0.000",
+    "Sod": "1342.895"
+   }
+  },
+  {
+   "id": "061001",
+   "portionSize": "3",
+   "n": {
+    "Prot": "10.836",
+    "Fat-T": "10.178",
+    "Carb": "0",
+    "Fiber": "0",
+    "Cals": "144.004",
+    "Sugar": "0",
+    "Sod": "125.5"
+   }
+  },
+  {
+   "id": "141002",
+   "portionSize": "2",
+   "n": {
+    "Prot": "8",
+    "Fat-T": "9",
+    "Carb": "52",
+    "Fiber": "1",
+    "Cals": "320",
+    "Sugar": "9",
+    "Sod": "640"
+   }
+  },
+  {
+   "id": "900001",
+   "portionSize": "1/2",
+   "n": {
+    "Prot": "5",
+    "Fat-T": "3",
+    "Carb": "27",
+    "Fiber": "4",
+    "Cals": "150",
+    "Sugar": "1",
+    "Sod": "5"
+   }
+  },
+  {
+   "id": "900002",
+   "portionSize": "8",
+   "n": {
+    "Prot": "8",
+    "Fat-T": "5",
+    "Carb": "26",
+    "Fiber": "1",
+    "Cals": "190",
+    "Sugar": "24",
+    "Sod": "150"
+   }
+  },
+  {
+   "id": "900003",
+   "portionSize": "4",
+   "n": {
+    "Prot": "35",
+    "Fat-T": "4",
+    "Carb": "0",
+    "Fiber": "0",
+    "Cals": "180",
+    "Sugar": "0",
+    "Sod": "390"
+   }
+  },
+  {
+   "id": "900004",
+   "portionSize": "1",
+   "n": {
+    "Prot": "18",
+    "Fat-T": "24",
+    "Carb": "40",
+    "Fiber": "3",
+    "Cals": "450",
+    "Sugar": "4",
+    "Sod": "900"
+   }
+  },
+  {
+   "id": "900005",
+   "portionSize": "1/2",
+   "n": {
+    "Prot": "3",
+    "Fat-T": "1",
+    "Carb": "23",
+    "Fiber": "2",
+    "Cals": "110",
+    "Sugar": "0",
+    "Sod": "5"
+   }
+  },
+  {
+   "id": "900006",
+   "portionSize": "3",
+   "n": {
+    "Prot": "2",
+    "Fat-T": "0",
+    "Carb": "6",
+    "Fiber": "3",
+    "Cals": "30",
+    "Sugar": "1",
+    "Sod": "30"
+   }
+  },
+  {
+   "id": "900007",
+   "portionSize": "1",
+   "n": {
+    "Prot": "0",
+    "Fat-T": "14",
+    "Carb": "1",
+    "Fiber": "0",
+    "Cals": "130",
+    "Sugar": "1",
+    "Sod": "260"
+   }
+  },
+  {
+   "id": "900008",
+   "portionSize": "1",
+   "n": {
+    "Prot": "2",
+    "Fat-T": "9",
+    "Carb": "25",
+    "Fiber": "1",
+    "Cals": "190",
+    "Sugar": "14",
+    "Sod": "130"
+   }
+  },
+  {
+   "id": "900009",
+   "portionSize": "1",
+   "n": {
+    "Prot": "20",
+    "Fat-T": "18",
+    "Carb": "30",
+    "Fiber": "1",
+    "Cals": "380",
+    "Sugar": "1",
+    "Sod": "700"
+   }
+  },
+  {
+   "id": "910001",
+   "portionSize": "5",
+   "n": {
+    "Prot": "44",
+    "Fat-T": "6",
+    "Carb": "0",
+    "Fiber": "0",
+    "Cals": "230",
+    "Sugar": "0",
+    "Sod": "480"
+   }
+  },
+  {
+   "id": "910002",
+   "portionSize": "4",
+   "n": {
+    "Prot": "2",
+    "Fat-T": "4",
+    "Carb": "20",
+    "Fiber": "2",
+    "Cals": "120",
+    "Sugar": "1",
+    "Sod": "200"
+   }
+  },
+  {
+   "id": "910003",
+   "portionSize": "3",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "2",
+    "Carb": "6",
+    "Fiber": "3",
+    "Cals": "45",
+    "Sugar": "2",
+    "Sod": "150"
+   }
+  },
+  {
+   "id": "910004",
+   "portionSize": "8",
+   "n": {
+    "Prot": "18",
+    "Fat-T": "30",
+    "Carb": "70",
+    "Fiber": "3",
+    "Cals": "620",
+    "Sugar": "4",
+    "Sod": "900"
+   }
+  },
+  {
+   "id": "910005",
+   "portionSize": "1",
+   "n": {
+    "Prot": "6",
+    "Fat-T": "2",
+    "Carb": "80",
+    "Fiber": "2",
+    "Cals": "370",
+    "Sugar": "1",
+    "Sod": "20"
+   }
+  },
+  {
+   "id": "910006",
+   "portionSize": "6",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "0",
+    "Carb": "20",
+    "Fiber": "2",
+    "Cals": "80",
+    "Sugar": "16",
+    "Sod": "5"
+   }
+  },
+  {
+   "id": "920001",
+   "portionSize": "4",
+   "n": {
+    "Prot": "4",
+    "Fat-T": "3",
+    "Carb": "40",
+    "Fiber": "1",
+    "Cals": "210",
+    "Sugar": "1",
+    "Sod": "300"
+   }
+  },
+  {
+   "id": "920002",
+   "portionSize": "4",
+   "n": {
+    "Prot": "4",
+    "Fat-T": "2",
+    "Carb": "36",
+    "Fiber": "3",
+    "Cals": "180",
+    "Sugar": "1",
+    "Sod": "10"
+   }
+  },
+  {
+   "id": "920003",
+   "portionSize": "2",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "0",
+    "Carb": "2",
+    "Fiber": "1",
+    "Cals": "10",
+    "Sugar": "1",
+    "Sod": "5"
+   }
+  },
+  {
+   "id": "920011",
+   "portionSize": "4",
+   "n": {
+    "Prot": "32",
+    "Fat-T": "6",
+    "Carb": "1",
+    "Fiber": "0",
+    "Cals": "180",
+    "Sugar": "1",
+    "Sod": "400"
+   }
+  },
+  {
+   "id": "920012",
+   "portionSize": "4",
+   "n": {
+    "Prot": "30",
+    "Fat-T": "12",
+    "Carb": "2",
+    "Fiber": "0",
+    "Cals": "240",
+    "Sugar": "1",
+    "Sod": "520"
+   }
+  },
+  {
+   "id": "920013",
+   "portionSize": "4",
+   "n": {
+    "Prot": "12",
+    "Fat-T": "10",
+    "Carb": "9",
+    "Fiber": "3",
+    "Cals": "150",
+    "Sugar": "1",
+    "Sod": "560"
+   }
+  },
+  {
+   "id": "920021",
+   "portionSize": "4",
+   "n": {
+    "Prot": "8",
+    "Fat-T": "1",
+    "Carb": "22",
+    "Fiber": "8",
+    "Cals": "130",
+    "Sugar": "1",
+    "Sod": "260"
+   }
+  },
+  {
+   "id": "920022",
+   "portionSize": "2",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "2",
+    "Carb": "5",
+    "Fiber": "1",
+    "Cals": "40",
+    "Sugar": "1",
+    "Sod": "150"
+   }
+  },
+  {
+   "id": "920023",
+   "portionSize": "2",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "0",
+    "Carb": "4",
+    "Fiber": "1",
+    "Cals": "20",
+    "Sugar": "1",
+    "Sod": "170"
+   }
+  },
+  {
+   "id": "920024",
+   "portionSize": "1",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "6",
+    "Carb": "1",
+    "Fiber": "0",
+    "Cals": "60",
+    "Sugar": "1",
+    "Sod": "15"
+   }
+  },
+  {
+   "id": "920025",
+   "portionSize": "1",
+   "n": {
+    "Prot": "7",
+    "Fat-T": "9",
+    "Carb": "1",
+    "Fiber": "0",
+    "Cals": "110",
+    "Sugar": "1",
+    "Sod": "180"
+   }
+  },
+  {
+   "id": "920026",
+   "portionSize": "2",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "1",
+    "Carb": "13",
+    "Fiber": "2",
+    "Cals": "70",
+    "Sugar": "1",
+    "Sod": "250"
+   }
+  },
+  {
+   "id": "920027",
+   "portionSize": "2",
+   "n": {
+    "Prot": "1",
+    "Fat-T": "11",
+    "Carb": "5",
+    "Fiber": "4",
+    "Cals": "120",
+    "Sugar": "1",
+    "Sod": "190"
+   }
+  },
+  {
+   "id": "920031",
+   "portionSize": "6",
+   "n": {
+    "Prot": "18",
+    "Fat-T": "22",
+    "Carb": "60",
+    "Fiber": "1",
+    "Cals": "520",
+    "Sugar": "1",
+    "Sod": "900"
+   }
+  },
+  {
+   "id": "920032",
+   "portionSize": "6",
+   "n": {
+    "Prot": "6",
+    "Fat-T": "8",
+    "Carb": "50",
+    "Fiber": "1",
+    "Cals": "300",
+    "Sugar": "1",
+    "Sod": "600"
+   }
+  },
+  {
+   "id": "930001",
+   "portionSize": "8",
+   "n": {
+    "Prot": "12",
+    "Fat-T": "2",
+    "Carb": "80",
+    "Fiber": "4",
+    "Cals": "390",
+    "Sugar": "2",
+    "Sod": "300"
+   }
+  },
+  {
+   "id": "930002",
+   "portionSize": "1",
+   "n": {
+    "Prot": "53",
+    "Fat-T": "18",
+    "Carb": "107",
+    "Fiber": "5",
+    "Cals": "805",
+    "Sugar": "2",
+    "Sod": "300"
+   }
+  },
+  {
+   "id": "930003",
+   "portionSize": "4",
+   "n": {
+    "Prot": "2",
+    "Fat-T": "3",
+    "Carb": "12",
+    "Fiber": "3",
+    "Cals": "80",
+    "Sugar": "2",
+    "Sod": "300"
+   }
+  },
+  {
+   "id": "930004",
+   "portionSize": "4",
+   "n": {
+    "Prot": "4",
+    "Fat-T": "20",
+    "Carb": "6",
+    "Fiber": "0",
+    "Cals": "220",
+    "Sugar": "2",
+    "Sod": "300"
+   }
+  },
+  {
+   "id": "930005",
+   "portionSize": "4",
+   "n": {
+    "Prot": "32",
+    "Fat-T": "6",
+    "Carb": "1",
+    "Fiber": "0",
+    "Cals": "180",
+    "Sugar": "2",
+    "Sod": "300"
+   }
+  },
+  {
+   "id": "930006",
+   "portionSize": "4",
+   "n": {
+    "Prot": "32",
+    "Fat-T": "6",
+    "Carb": "1",
+    "Fiber": "0",
+    "Cals": "180",
+    "Sugar": "2",
+    "Sod": "300"
+   }
+  },
+  {
+   "id": "930007",
+   "portionSize": "1",
+   "n": {
+    "Prot": "5",
+    "Fat-T": "1",
+    "Carb": "46",
+    "Fiber": "7",
+    "Cals": "190",
+    "Sugar": "2",
+    "Sod": "300"
+   }
+  }
+ ],
+ "hours": {
+  "71": [
+   {
+    "name": "Dietrick - DX",
+    "hours": [
+     {
+      "label": "Regular Hours",
+      "open_time": "18:00:01",
+      "close_time": "02:00:00",
+      "start": "2026-11-16",
+      "end": "2026-11-16",
+      "title": "6:00 PM - 2:00 AM"
+     }
+    ]
+   }
+  ],
+  "15": [
+   {
+    "name": "Dietrick - D2",
+    "hours": [
+     {
+      "label": "Breakfast",
+      "open_time": "07:00:01",
+      "close_time": "10:30:00",
+      "title": "7:00 AM - 10:30 AM"
+     },
+     {
+      "label": "Lunch/Dinner",
+      "open_time": "10:30:01",
+      "close_time": "20:30:00",
+      "title": "10:30 AM - 8:30 PM"
+     }
+    ]
+   }
+  ],
+  "14": [
+   {
+    "name": "Turner Place - 1872 Fire Grill",
+    "hours": [
+     {
+      "label": "Regular Hours",
+      "open_time": "10:30:01",
+      "close_time": "19:30:00",
+      "title": "10:30 AM - 7:30 PM"
+     }
+    ]
+   },
+   {
+    "name": "Turner Place - Atomic Pizzeria",
+    "hours": [
+     {
+      "label": "Regular Hours",
+      "open_time": "10:00:01",
+      "close_time": "15:30:00",
+      "title": "10:00 AM - 3:30 PM"
+     }
+    ]
+   },
+   {
+    "name": "Turner Place - Dolci e Caffe: Grab n Go",
+    "hours": [
+     {
+      "label": "Regular Hours",
+      "open_time": "07:00:01",
+      "close_time": "21:00:00",
+      "title": "7:00 AM - 9:00 PM"
+     }
+    ]
+   }
+  ],
+  "39": [
+   {
+    "name": "Owens Hall - Owens Food Court",
+    "hours": [
+     {
+      "label": "Regular Hours",
+      "open_time": "10:00:01",
+      "close_time": "21:00:00",
+      "title": "10:00 AM - 9:00 PM"
+     }
+    ]
+   }
+  ],
+  "16": [
+   {
+    "name": "West End",
+    "hours": [
+     {
+      "label": "Regular Hours",
+      "open_time": "10:30:01",
+      "close_time": "21:00:00",
+      "title": ""
+     }
+    ]
+   }
+  ]
+ }
+}
